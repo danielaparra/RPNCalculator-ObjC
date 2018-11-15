@@ -13,6 +13,7 @@
 		7B3AAC7A219E199B0098CD16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B3AAC78219E199B0098CD16 /* LaunchScreen.storyboard */; };
 		7B3AAC7D219E199B0098CD16 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B3AAC7C219E199B0098CD16 /* main.m */; };
 		7B3AAC86219E1CD20098CD16 /* DYPStack.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B3AAC85219E1CD20098CD16 /* DYPStack.m */; };
+		7B3AAC89219E27FF0098CD16 /* DYPCalculator.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B3AAC88219E27FF0098CD16 /* DYPCalculator.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		7B3AAC7C219E199B0098CD16 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		7B3AAC84219E1CD20098CD16 /* DYPStack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DYPStack.h; sourceTree = "<group>"; };
 		7B3AAC85219E1CD20098CD16 /* DYPStack.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DYPStack.m; sourceTree = "<group>"; };
+		7B3AAC87219E27FF0098CD16 /* DYPCalculator.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DYPCalculator.h; sourceTree = "<group>"; };
+		7B3AAC88219E27FF0098CD16 /* DYPCalculator.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DYPCalculator.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				7B3AAC6E219E19960098CD16 /* AppDelegate.m */,
 				7B3AAC84219E1CD20098CD16 /* DYPStack.h */,
 				7B3AAC85219E1CD20098CD16 /* DYPStack.m */,
+				7B3AAC87219E27FF0098CD16 /* DYPCalculator.h */,
+				7B3AAC88219E27FF0098CD16 /* DYPCalculator.m */,
 				7B3AAC73219E19960098CD16 /* Main.storyboard */,
 				7B3AAC76219E199B0098CD16 /* Assets.xcassets */,
 				7B3AAC78219E199B0098CD16 /* LaunchScreen.storyboard */,
@@ -143,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7B3AAC7D219E199B0098CD16 /* main.m in Sources */,
+				7B3AAC89219E27FF0098CD16 /* DYPCalculator.m in Sources */,
 				7B3AAC6F219E19960098CD16 /* AppDelegate.m in Sources */,
 				7B3AAC86219E1CD20098CD16 /* DYPStack.m in Sources */,
 			);
